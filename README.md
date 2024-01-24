@@ -19,4 +19,5 @@ Multiple products can be added to the cart, and the removal of items from the ca
 
 The total amount of products in the cart is indicated in the "Total" section and is linked to the product prices.
 
-<img src="görsel.gif"/>
+
+![GIF'in adı]([GIF'in URL'si](https://github.com/ibrahimcelik1804/e-commerce/blob/main/public/g%C3%B6rsel.gif)https://github.com/ibrahimcelik1804/e-commerce/blob/main/public/g%C3%B6rsel.gif)
