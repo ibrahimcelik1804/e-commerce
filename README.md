@@ -19,4 +19,4 @@ Multiple products can be added to the cart, and the removal of items from the ca
 
 The total amount of products in the cart is indicated in the "Total" section and is linked to the product prices.
 
-<img src="görsel.gif"/># e-commerce
+<img src="görsel.gif"/>
